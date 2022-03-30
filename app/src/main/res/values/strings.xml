@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Heroes</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="from">Asal</string>
+    <string name="List">List</string>
+    <string name="Grid">Grid</string>
+    <string name="Cardview">Cardview</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="txt_list">Mode List</string>
+    <string name="txt_gird">Mode Grid</string>
+    <string name="txt_cardview">Mode Cardview</string>
+</resources>
